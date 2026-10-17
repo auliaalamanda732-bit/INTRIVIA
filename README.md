@@ -1,9 +1,9 @@
 # INTRIVIA 2026
 
 ## IDENTITAS DIRI
-| Alamanda Aulia Rahma Imansari | 265150207111053 |Teknik Informatika | Cluster 11 |
+| Nama Lengkap | NIM |Program Studi | Cluster |
 |-------------------------------|-----------------|-------------------|------------|
-| [Alamanda Aulia Rahma Imansari] | [265150207111053] | [Teknik Informatika] | [Cluster 11] |
+| Alamanda Aulia Rahma Imansari | 265150207111053 | Teknik Informatika | Cluster 11 |
 ## Kesan Pesan INTRIVIA Sejauh Ini
 INTRIVIA sejauh ini seru banget dan di luar ekspektasi karena suasananya hangat dan kakak-kakak panitianya sangat suportif, sehingga kami bisa mengenal departemen sekaligus akrab dengan teman seangkatan tanpa merasa tegang. Semoga rangkaian acara ke depannya tetap seru dan informasinya selalu jelas. Terima kasih banyak untuk seluruh panitia yang sudah totalitas menyambut kami, semangat terus sampai akhir rangkaian acara!
 
