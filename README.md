@@ -13,4 +13,3 @@ Cluster 11 sejauh ini pokoknya asik dan seru banget! Suasananya hidup, teman-tem
 
 ## Harapan Kuliah
 Semoga masa kuliah ini menjadi ruang terbaik untuk bertumbuh secara intelektual dan emosional, mampu menyeimbangkan pencapaian akademik dengan pengembangan diri, serta melahirkan karya nyata yang bermanfaat bagi masa depan.
-youuu
